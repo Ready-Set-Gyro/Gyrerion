@@ -14,10 +14,10 @@ whether it was derived from measurements or depends on an estimate.
 
 | Metric | Status |
 |---|---|
-| Speed | ✅ Implemented |
-| Pace | ✅ Implemented |
-| Cadence | ✅ Implemented |
-| Step length / stride length | ✅ Implemented |
+| Speed | Implemented |
+| Pace | Implemented |
+| Cadence | Implemented |
+| Step length / stride length | Implemented |
 | Ground contact time | Planned (estimation from accelerometer data) |
 | Running stability | Planned |
 | Left/right symmetry | Planned |
